@@ -87,9 +87,9 @@ media             | PropTypes.string | All              | `just for Ios` String:
 num               | PropTypes.number | 20               | `just for Ios` number item
 imageMargin       | PropTypes.number | 5                | Margin size of one image. 
 imagesPerRow      | PropTypes.number | 3                | Number of images per row. 
-headerMid         | PropTypes.string | 'Select Items'   | text header mid
-headerLeftButton  | PropTypes.string | 'Cancel'         | text header left button
-headerRightButton | PropTypes.string | 'Done'           | text header right button
-onCancel          | PropTypes.func   | () => {}         | function cancel
-onSelectedItem    | PropTypes.func   | () => {}         | function selected item
+headerMid         | PropTypes.string | 'Select Items'   | Text header mid
+headerLeftButton  | PropTypes.string | 'Cancel'         | Text header left button
+headerRightButton | PropTypes.string | 'Done'           | Text header right button
+onCancel          | PropTypes.func   | () => {}         | Function cancel
+onSelectedItem    | PropTypes.func   | () => {}         | Function selected item
 
