@@ -1,4 +1,4 @@
-# React Native Instagram login
+# React Native Media Helper
 MediaHelper component for React native, supports both android and ios.
 <p align="center">
   <img src="https://github.com/hungdev/react-native-media-helper/blob/master/MediaHelper.gif?raw=true" width=300/>
@@ -24,8 +24,10 @@ then link
 import MediaHelper from 'react-native-media-helper'
 
   <MediaHelper
-    numPhotos={20}
-    numVideos={20}
+    numPhotos={20} // just for android
+    numVideos={20} // just for android
+    media='All'   // just for ios
+    num={20}      // just for ios
     onCancel={() => this.setState({visible: false})}
     onSelectedItem={(item) => alert(JSON.stringify(item))}
   />
