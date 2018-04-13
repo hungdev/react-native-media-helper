@@ -9,7 +9,7 @@ currently, react native camera roll is not supported get thumbnail video from ca
 # Install
 
 ```js
-npm install react-native-media-picker --save
+npm install react-native-media-helper --save
 ```
 then link
 
