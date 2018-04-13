@@ -1,0 +1,26 @@
+{
+  "name": "react-native-media-helper",
+  "version": "1.0.0",
+  "description": "select item from camera roll",
+  "main": "MediaHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungdev/react-native-media-helper.git"
+  },
+  "keywords": [
+    "media",
+    "image",
+    "video",
+    "picker"
+  ],
+  "author": "hung vu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hungdev/react-native-media-helper/issues"
+  },
+  "homepage": "https://github.com/hungdev/react-native-media-helper#readme",
+  "dependencies": {}
+}
