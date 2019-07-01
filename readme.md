@@ -1,4 +1,6 @@
 # React Native Media Helper
+
+# This library has not been maintained for a long time
 MediaHelper component for React native, supports both android and ios.
 <p align="center">
   <img src="https://github.com/hungdev/react-native-media-helper/blob/master/MediaHelper.gif?raw=true" width=300/>
